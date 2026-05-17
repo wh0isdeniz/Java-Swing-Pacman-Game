@@ -48,7 +48,7 @@ A classic Pacman-inspired arcade game built with **Java Swing**, featuring anima
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pacman-game.git
+   git clone https://github.com/wh0isdeniz/Java-Swing-Pacman-Game.git
    ```
 2. Open the project folder in IntelliJ IDEA.
 3. Mark `src/` as the **Sources Root** (right-click → Mark Directory as → Sources Root).
